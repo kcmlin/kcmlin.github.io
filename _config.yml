@@ -72,8 +72,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://kcmlin.github.io/'
-  relativeLinks: 'http://kcmlin.github.io/links.jsonp'
+  siteurl: 'https://kcmlin.github.io/'
+  relativeLinks: 'https://kcmlin.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
