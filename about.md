@@ -3,17 +3,9 @@ layout: page
 permalink: /about/index.html
 title: About
 tags: 
-imagefeature: klin-pic.png
+imagefeature: 
 chart: true
 ---
-
-<div align="center">
-<figure>
-  <img src="{{ site.url }}/images/klin-photo.png" alt="Katherine S">
-  <figcaption> </figcaption> 
-</figure>
-</div>
-
 
 Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaimed photography enthusiast. She has completed 6 half marathons and 3 marathons. Katherine is currently training for her first ultramarathon. Her ultimate goals are to travel around the world, embrace every moment in life and never stop exploring.
 
@@ -23,8 +15,6 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 |:--:|:---:|:--:|:---:|:--:|:---:|
 | Ethiopia | USA | | Taiwan | | | 
 | | | | China |  | |
-
-
 
 #### Past Running Events at a Glance: 
 
@@ -46,7 +36,6 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 1    | PHUNT | 2016 |  01 | Elkton | MD  | USA | 3:59:59 (Watch) | Trail | 25K | D+ 2,207 ft |
 | 2    | Gunpowder Keg Ultra | 2016 | 04 | Hereford | MD | USA | 3:53:28 (Watch) | Trail | 25K | D+ 1,733 ft |
 
-
 * **Full Marathons**:
 
 | No.  | Race | Year | Month | City | State | Country | Chip Time | Type  | Note |
@@ -54,16 +43,12 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 1    | Baltimore Running Festival | 2015 | 10 | Baltimore | MD | USA | 6:51:27 | Road |  |
 | 2    | Anthem Richmond Marathon | 2015 | 11 | Richmond | VA  | USA | 5:53:36  | Road | VA Capital |
 | 3    | Salmon Marathon | 2016 | 09 | Salmon  | ID | USA | 6:13:54 | Mixed | 1st Race at Altitude  |
-| 4    |  | 2017 | 10 |   |  | USA | |  |   |
-| 5    |  | 2017 | 10 |   |  | USA | |  |   |
-
-
 
 * **Ultra Marathons**:
 
 | No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Distance  | Note |
 |:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|:----:|
-| 1    |  | 2018 | 03 |  |  |  |  |  |  | | |
+
 
 
 
