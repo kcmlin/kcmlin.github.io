@@ -47,7 +47,8 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 * **Ultra Marathons**:
 
 | No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Distance  | Note |
-|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|:----:|
+|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|
+
 
 
 
