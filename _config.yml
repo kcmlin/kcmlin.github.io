@@ -120,6 +120,8 @@ prose:
               value: explore
             - name: "Other"
               value: other  
+            - name: "Diet"
+              value: diet
           alterable: true
       - name: "tags"
         field:
