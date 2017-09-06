@@ -18,6 +18,27 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 
 #### Past Running Events at a Glance: 
 
+* **Ultra Marathons**:
+
+| No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Distance  | Note |
+|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|
+| 1    |      |      |       |      |       |         |           |      |      |      |
+
+* **Full Marathons**:
+
+| No.  | Race | Year | Month | City | State | Country | Chip Time | Type  | Note |
+|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:------:| 
+| 1    | Baltimore Running Festival | 2015 | 10 | Baltimore | MD | USA | 6:51:27 | Road |  |
+| 2    | Anthem Richmond Marathon | 2015 | 11 | Richmond | VA  | USA | 5:53:36  | Road | VA Capital |
+| 3    | Salmon Marathon | 2016 | 09 | Salmon  | ID | USA | 6:13:54 | Mixed | 1st Race at Altitude  |
+
+* **Mid Distances**:
+
+| No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Distance   | Note|
+|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|
+| 1    | PHUNT | 2016 |  01 | Elkton | MD  | USA | 3:59:59 (Watch) | Trail | 25K | D+ 2,207 ft |
+| 2    | Gunpowder Keg Ultra | 2016 | 04 | Hereford | MD | USA | 3:53:28 (Watch) | Trail | 25K | D+ 1,733 ft |
+
 * **Half Marathons**:
 
 | No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Note | 
@@ -29,30 +50,16 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 5    | TCS Annapolis Running Classic  | 2014 | 11 | Annapolis  | MD | USA | 2:35:57 | Road | MD Capital |
 | 6    | Frederick Running Festival     | 2015 | 05 | Frederick  | MD | USA | 2:28:45 | Road |  |
 
-* **Mid Distances**:
-
-| No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Distance   | Note|
-|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|
-| 1    | PHUNT | 2016 |  01 | Elkton | MD  | USA | 3:59:59 (Watch) | Trail | 25K | D+ 2,207 ft |
-| 2    | Gunpowder Keg Ultra | 2016 | 04 | Hereford | MD | USA | 3:53:28 (Watch) | Trail | 25K | D+ 1,733 ft |
-
-* **Full Marathons**:
-
-| No.  | Race | Year | Month | City | State | Country | Chip Time | Type  | Note |
-|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:------:| 
-| 1    | Baltimore Running Festival | 2015 | 10 | Baltimore | MD | USA | 6:51:27 | Road |  |
-| 2    | Anthem Richmond Marathon | 2015 | 11 | Richmond | VA  | USA | 5:53:36  | Road | VA Capital |
-| 3    | Salmon Marathon | 2016 | 09 | Salmon  | ID | USA | 6:13:54 | Mixed | 1st Race at Altitude  |
-
-* **Ultra Marathons**:
-
-| No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Distance  | Note |
-|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|
-| 1    |      |      |       |      |       |         |           |      |      |      |
-
-
-
-
+* **Other Short Distances**:
+| No.  | Race                    | Distance | Year | City | State | Country | Note | 
+|:----:|:----                       |:----: |:----: |:---- |:----  | :----   | :----    |
+| 1    | Baltimore Running Festival | 5K    | 2010 | Baltimore  | MD | USA | |
+| 2    | Baltimore Running Festival | 5K    | 2012 | Baltimore  | MD | USA | With P |
+| 3    | Baltimore Running Festival | 5K    | 2013 | Baltimore  | MD | USA | First trained race. C25K |
+| 4    | Philadelphia Marathon      | 8K    | 2013 | Philadelphia  | PA | USA | First out of state race |
+| 5    | Baltimore 10-Miler         | 10M   | 2015 | Baltimore  | MD | USA | King Crab Challenge |
+| 6    | Color Vibe 5K              | 5K    | 2016 | Hanover    | MD | USA | First color run. With 2 nephews (5yo, 8yo) | 
+| 7    | UN Women's first 5K        | 5K    | 2017 | Addis Ababa | | Ethiopia | First overseas race | 
 
 
 ---
