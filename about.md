@@ -20,8 +20,8 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 
 * **Ultra Marathons**:
 
-| No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Distance  | Note |
-|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|
+| No.  | Race | Distance | Year | Month | City | State | Country | Chip Time | Type  | Note |
+|:----:|:---- |:----:|:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|
 | 1    |      |      |       |      |       |         |           |      |      |      |
 
 * **Full Marathons**:
@@ -34,10 +34,10 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 
 * **Mid Distances**:
 
-| No.  | Race | Year | Month | City | State | Country | Chip Time | Type | Distance   | Note|
-|:----:|:---- |:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|:----:|
-| 1    | PHUNT | 2016 |  01 | Elkton | MD  | USA | 3:59:59 (Watch) | Trail | 25K | D+ 2,207 ft |
-| 2    | Gunpowder Keg Ultra | 2016 | 04 | Hereford | MD | USA | 3:53:28 (Watch) | Trail | 25K | D+ 1,733 ft |
+| No.  | Race | Distance | Year | Month | City | State | Country | Chip Time | Type | Note|
+|:----:|:---- |:----:|:----:|:----: |:---- |:----  | :----   | :----:    |:----:|:----:|
+| 1    | PHUNT | 25K | 2016 |  01 | Elkton | MD  | USA | 3:59:59 (Watch) | Trail | D+ 2,207 ft |
+| 2    | Gunpowder Keg Ultra | 25K | 2016 | 04 | Hereford | MD | USA | 3:53:28 (Watch) | Trail | D+ 1,733 ft |
 
 * **Half Marathons**:
 
