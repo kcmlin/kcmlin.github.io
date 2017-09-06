@@ -51,6 +51,7 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 6    | Frederick Running Festival     | 2015 | 05 | Frederick  | MD | USA | 2:28:45 | Road |  |
 
 * **Other Short Distances**:
+
 | No.  | Race                    | Distance | Year | City | State | Country | Note | 
 |:----:|:----                       |:----: |:----: |:---- |:----  | :----   | :----    |
 | 1    | Baltimore Running Festival | 5K    | 2010 | Baltimore  | MD | USA | |
