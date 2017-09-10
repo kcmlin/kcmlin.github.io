@@ -44,7 +44,7 @@ published: true
 * *Ultra-Trail Mt. Fuji*: Japan
 * *Halong Bay Heritage Marathon*: Vietnam
 * *The Great Wall Marathon*: China
-* *Jerusalem Marathon 2017*: Israel
+* *Jerusalem Marathon*: Israel
 * *Petra Desert Marathon*: Jordan
 
 ##### Europe
@@ -58,4 +58,4 @@ published: true
 
 ##### Oceania
 
-* *Tarawara Ultramarathon*: New Zealand
+* *Tarawera Ultramarathon*: New Zealand
