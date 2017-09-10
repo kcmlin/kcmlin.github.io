@@ -6,7 +6,7 @@ tags:
   - race
 comments: false
 mathjax: null
-featured: false
+featured: true
 published: true
 ---
 
@@ -33,6 +33,7 @@ published: true
 
 * *Patagonian International Marathon*: Chile
 * *Inca Trail Marathon*: Peru
+* *Jungle Marathon*: Brazil
 
 ##### Antarctica 	 	
 
@@ -43,6 +44,7 @@ published: true
 * *Ultra-Trail of Mt. Guguan*: Taiwan
 * *Ultra-Trail Mt. Fuji*: Japan
 * *Halong Bay Heritage Marathon*: Vietnam
+* *Bagan Temple Marathon*: Myanmar
 * *The Great Wall Marathon*: China
 * *Jerusalem Marathon*: Israel
 * *Petra Desert Marathon*: Jordan
