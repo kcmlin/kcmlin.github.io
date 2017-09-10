@@ -10,7 +10,7 @@ featured: false
 published: true
 ---
 
-#### Definite bucket list races
+#### Definite bucket list race(s)
 
 * *Ultra Trail du Mont Blanc* (106 Miles): France, Italy, Switzerland
 
