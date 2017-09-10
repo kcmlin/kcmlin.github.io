@@ -31,7 +31,7 @@ published: true
 
 ##### S America 
 
-* *Patagonian International Marathon*: Torres del Paine National Park, Chilean Patagonia
+* *Patagonian International Marathon*: Chile
 * *Inca Trail Marathon*: Peru
 
 ##### Antarctica 	 	
