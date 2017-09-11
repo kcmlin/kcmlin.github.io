@@ -54,6 +54,7 @@ Disclaimer: This list would be biased toward places I haven't been and/or places
 * *The Great Wall Marathon*: China
 * *Petra Desert Marathon*: Jordan
 * *Jerusalem Marathon*: Israel
+* *Seoul International Marathon*: South Korea
 
 ##### Europe
 
