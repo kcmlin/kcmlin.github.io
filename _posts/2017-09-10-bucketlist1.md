@@ -10,6 +10,8 @@ featured: true
 published: true
 ---
 
+Disclaimer: This list would be biased toward places I haven't been and/or places I would like to travel to.
+
 #### Definite bucket list race(s)
 
 * *Ultra Trail du Mont Blanc* (106 Miles): France, Italy, Switzerland
