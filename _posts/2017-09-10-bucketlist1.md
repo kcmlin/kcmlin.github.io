@@ -4,6 +4,7 @@ title: Races to look into 1
 categories: run
 tags: 
   - race
+  - run
 comments: false
 mathjax: null
 featured: true
