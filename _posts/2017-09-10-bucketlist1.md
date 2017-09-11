@@ -64,11 +64,11 @@ Disclaimer: This list would be biased toward places I haven't been and/or places
 * *Athens Marathon*: Greece
 * *Rome Marathon*: Italy
 * *Reykjavík Marathon*: Iceland
+* *Stockholm Marathon*: Sweden
 
 ##### Oceania
 
 * *Tarawera Ultramarathon*: New Zealand
 * *Rotorua Marathon*: New Zealand
-* *Auckland Marathon*: New Zealand
 * *Australian Outback Marathon*: Australia
 * *Sydney Marathon*: Australia
