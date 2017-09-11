@@ -26,6 +26,8 @@ Disclaimer: This list would be biased toward places I haven't been and/or places
 * *International Marathon of Marrakech*: Morocco
 * *Kilimanjaro Marathon*: Tanzania
 * *The Big Five Marathon*: South Africa
+* *Comrades (Ultra)marathon*: South Africa
+* *Two Oceans Marathon*: South Africa
  
 ##### N America
 
@@ -65,4 +67,7 @@ Disclaimer: This list would be biased toward places I haven't been and/or places
 ##### Oceania
 
 * *Tarawera Ultramarathon*: New Zealand
+* *Rotorua Marathon*: New Zealand
+* *Auckland Marathon*: New Zealand
 * *Australian Outback Marathon*: Australia
+* *Sydney Marathon*: Australia
