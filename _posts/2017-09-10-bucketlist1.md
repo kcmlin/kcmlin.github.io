@@ -48,9 +48,10 @@ Disclaimer: This list would be biased toward places I haven't been and/or places
 * *Ultra-Trail Mt. Fuji*: Japan
 * *Halong Bay Heritage Marathon*: Vietnam
 * *Bagan Temple Marathon*: Myanmar
+* *Astana Marathon*: Kazakhstan
 * *The Great Wall Marathon*: China
-* *Jerusalem Marathon*: Israel
 * *Petra Desert Marathon*: Jordan
+* *Jerusalem Marathon*: Israel
 
 ##### Europe
 
