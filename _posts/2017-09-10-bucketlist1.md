@@ -65,3 +65,4 @@ Disclaimer: This list would be biased toward places I haven't been and/or places
 ##### Oceania
 
 * *Tarawera Ultramarathon*: New Zealand
+* *Australian Outback Marathon*: Australia
