@@ -12,7 +12,7 @@ share:            true
 owner:
   name:           Katherine S
   avatar:         klin-photo.png
-  email:          kcmlin@gmail.com
+  # email:          kcmlin@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Runner / Explorer
   # Social networking links used in footer. Update and remove as you like.
