@@ -7,7 +7,7 @@ tags:
   - run
 comments: false
 mathjax: null
-featured: true
+featured: false
 published: true
 ---
 
