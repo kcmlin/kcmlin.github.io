@@ -7,7 +7,7 @@ imagefeature:
 chart: true
 ---
 
-Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaimed photography enthusiast. She has completed 6 half marathons and 3 marathons. Katherine is currently training for her first ultramarathon. Her ultimate goals are to travel around the world, embrace every moment in life and never stop exploring.
+Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaimed photography enthusiast. She has completed 6 half marathons and 4 marathons. Katherine is currently training for her first ultramarathon. Her ultimate goals are to travel around the world, embrace every moment in life and never stop exploring.
 
 #### Places I have run at
     
@@ -31,6 +31,7 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 1    | Baltimore Running Festival | 2015 | 10 | Baltimore | MD | USA | 6:51:27 | Road |  |
 | 2    | Anthem Richmond Marathon | 2015 | 11 | Richmond | VA  | USA | 5:53:36  | Road | VA Capital |
 | 3    | Salmon Marathon | 2016 | 09 | Salmon  | ID | USA | 6:13:54 | Mixed | 1st Race at Altitude  |
+| 4    | Twin Cities Marathon | 2017 | 10 | Minneapolis, St Paul | MN | USA | 6:42:40 | Road | MN Capital |
 
 * **Mid Distances**:
 
