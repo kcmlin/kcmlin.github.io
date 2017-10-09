@@ -11,13 +11,15 @@ published: true
 
 #### Book 
 * Read [Guns, Germs, and Steel: The Fates of Human Societies](https://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552) (Jared Diamond, 1999): Done
- 
+* Read [Bossypants]: Done
+
 #### Run
 * Feeling fine - no soreness two days after marathon!
 * (https://twitter.com/tcmarathon/status/914502580612497408)
 
 #### Travel 
 * Richmond and Vancouver, BC
+* Take the train across US/Canada boarder 
 
 #### Food
 * Went to an Aussie restaurant 
