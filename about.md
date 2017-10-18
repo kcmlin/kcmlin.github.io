@@ -50,7 +50,7 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 4    | Pittsburgh Marathon            | 2014 | 05 | Pittsburgh | PA | USA | 2:49:04 | Road | |
 | 5    | TCS Annapolis Running Classic  | 2014 | 11 | Annapolis  | MD | USA | 2:35:57 | Road | MD Capital |
 | 6    | Frederick Running Festival     | 2015 | 05 | Frederick  | MD | USA | 2:28:45 | Road |  |
-| 7    | Nebraska Marathon    | 2017 | 10 | Omaha (NE) and Council Bluffs (IA) | NE, IA | USA | 2:44:45 (Watch) | Road |  |
+| 7    | Nebraska Marathon    | 2017 | 10 | Omaha (NE) and Council Bluffs (IA) | NE, IA | USA | 2:44:39 | Road |  |
 
 * **Other Short Distances**:
 
