@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running in North America
-categories: Run
+categories: run
 tags: 
   - heatmap
   - run
