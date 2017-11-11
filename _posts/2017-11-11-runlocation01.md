@@ -16,32 +16,26 @@ Places I have run 3+ miles. (Min: 3.0 miles/run; Max: 30+ miles/run)
 **USA**  
 
 |#| PL | BEEN | FIRST RUN |
-|:--:|:--:|:----:|:---:|
+|:--:|:--|:----:|:---:|
 |01 | MD Maryland      |  Yes | 2009 |
-|:--:|:--:|:----:|:---:|
 |02| PA Pennsylvania  | Yes  | 2013 |
-|:--:|:--:|:----:|:---:|
 |03| DC District of Columbia | Yes  | 2014 |
 |04| NC North Carolina       | Yes | 2014 |
-|:--:|:--:|:----:|:---:|
 |05| MT Montana       | Yes  | 2015 | 
 |06| NY New York      | Yes  | 2015 |
 |07| OH Ohio          | Yes  | 2015 |
-|:--:|:--:|:----:|:---:|
 |08| DE Delaware      | Yes  | 2016 | 
 |09| ID Idaho         | Yes  | 2016 |
 |10| IL Illinois      | Yes  | 2016 |
 |11| MA Massachusetts | Yes  | 2016 |
 |12| WV West Virginia | Yes  | 2016 | 
 |13| VA Virginia      | Yes  | 2016 |
-|:--:|:--:|:----:|:---:|
 |14| MN Minnesota      | Yes | 2017 |
 |15| NE Nebraska      | Yes  | 2017 |
 |16| RI Rhode Island  | Yes  | 2017 |
 |17| UT Utah          | Yes  | 2017 | 
 |18| WA Washington    | Yes  | 2017 | 
 |19| WY Wyoming       | Yes  | 2017 |
-|:--:|:--:|:----:|:---:|
 |20| CA California    | Yes |       |
 |21| HI Hawaii        | Yes |       |
 |22| ME Maine         | Yes  |      |
@@ -52,7 +46,7 @@ Places I have run 3+ miles. (Min: 3.0 miles/run; Max: 30+ miles/run)
 **CANADA**  
 
 |#| PL | BEEN | FIRST RUN |
-|:--:|:--:|:----:|:---:|
+|:--:|:--|:----:|:---:|
 |01| ON Ontario           | Yes  | 2017 | 
 |02| BC British Columbia  | Yes  | 2017 |
 
