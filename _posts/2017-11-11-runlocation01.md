@@ -11,7 +11,7 @@ featured: true
 published: true
 ---
 
-I run and explore every chance I get. I run before sun rises; I run after sun sets. I run during layovers; I run in between events. Below are places I have run 3+ miles at. (Min: 3.0 miles/run; Max: 30+ miles/run)
+I run and explore every chance I get. I run before sun rises; I run after sun sets. I run during layovers; I run in between events. Below are places I have run 3+ miles at. (Minimun: 3 miles/run; Maximum: 30+ miles/run)
 
 **USA**  
 
