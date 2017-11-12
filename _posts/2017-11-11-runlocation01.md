@@ -11,13 +11,13 @@ featured: true
 published: true
 ---
 
-Places I have run 3+ miles. (Min: 3.0 miles/run; Max: 30+ miles/run)
+I run and explore every chance I get. I run before sun rises, I run after sun sets. I run during layovers; I run in between events. Below are places I have run 3+ miles at. (Min: 3.0 miles/run; Max: 30+ miles/run)
 
 **USA**  
 
 |#| PL | BEEN | FIRST RUN |
 |:--:|:--|:----:|:---:|
-|01 | MD Maryland      |  Yes | 2009 |
+|01| MD Maryland      |  Yes | 2009 |
 |02| PA Pennsylvania  | Yes  | 2013 |
 |03| DC District of Columbia | Yes  | 2014 |
 |04| NC North Carolina       | Yes | 2014 |
