@@ -62,7 +62,7 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 4    | Philadelphia Marathon      | 8K    | 2013 | Philadelphia  | PA | USA | First out of state race |
 | 5    | Baltimore 10-Miler         | 10M   | 2015 | Baltimore  | MD | USA | King Crab Challenge |
 | 6    | Color Vibe 5K              | 5K    | 2016 | Hanover    | MD | USA | First color run. With nephews (5yo, 8yo) | 
-| 7    | UN Women's first 5K        | 5K    | 2017 | Addis Ababa | | Ethiopia | First overseas race | 
+| 7    | UN Women's First 5K        | 5K    | 2017 | Addis Ababa | | Ethiopia | First overseas race | 
 
 
 ---
