@@ -32,16 +32,19 @@ I run and explore every chance I get. I run before sun rises; I run after sun se
 |13| VA Virginia      | Yes  | 2016 |
 |14| MN Minnesota      | Yes | 2017 |
 |15| NE Nebraska      | Yes  | 2017 |
-|16| RI Rhode Island  | Yes  | 2017 |
-|17| UT Utah          | Yes  | 2017 | 
-|18| WA Washington    | Yes  | 2017 | 
-|19| WY Wyoming       | Yes  | 2017 |
-|20| CA California    | Yes |       |
-|21| HI Hawaii        | Yes |       |
-|22| ME Maine         | Yes  |      |
-|23| NJ New Jersey    |  Yes |      |
-|24| SC South Carolina | Yes |      |
-|25| TX Texas         | Yes |       |
+|16| NV Nevada        | Yes  | 2017 |
+|17| RI Rhode Island  | Yes  | 2017 |
+|18| UT Utah          | Yes  | 2017 | 
+|19| WA Washington    | Yes  | 2017 | 
+|20| WY Wyoming       | Yes  | 2017 |
+|21| CA California    | Yes |       |
+|22| IA Iowa          | Yes* |
+|22| HI Hawaii        | Yes |       |
+|23| ME Maine         | Yes  |      |
+|24| NJ New Jersey    |  Yes |      |
+|25| SC South Carolina | Yes |      |
+|26| TX Texas         | Yes |       |
+(*Note: I ran 2 miles in Iowa but did not stay over night in IA.)
 
 **CANADA**  
 
