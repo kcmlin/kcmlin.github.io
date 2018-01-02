@@ -45,7 +45,7 @@ I run and explore every chance I get. I run before sun rises; I run after sun se
 |25| SC South Carolina | Yes |      |
 |26| TX Texas         | Yes |       |
 
-(NOTE: I ran 2 miles in Iowa but did not stay over night in IA.)
+(NOTE: I ran 2 miles in Iowa. However, I did not stay over night in IA.)
 
 **CANADA**  
 
