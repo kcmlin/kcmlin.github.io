@@ -29,6 +29,6 @@ I run and explore every chance I get. I run before sun rises; I run after sun se
 
 |#| PL | BEEN | FIRST RUN |
 |:--:|:--|:----:|:---:|
-|01| Tokyo   |  Yes | 2017(!) |
+|01| Tokyo   |  Yes | 2017 (NOTE) |
 
-(! Note: I ran 3+ miles at the airport. However, GPS only recorded the first mile.)
+(NOTE: I ran 3+ miles at the airport. However, GPS only recorded the first mile.)

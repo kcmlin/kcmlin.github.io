@@ -38,14 +38,14 @@ I run and explore every chance I get. I run before sun rises; I run after sun se
 |19| WA Washington    | Yes  | 2017 | 
 |20| WY Wyoming       | Yes  | 2017 |
 |21| CA California    | Yes |       |
-|22| IA Iowa          | Yes(!) |
+|22| IA Iowa          | Yes (NOTE) |
 |22| HI Hawaii        | Yes |       |
 |23| ME Maine         | Yes  |      |
 |24| NJ New Jersey    |  Yes |      |
 |25| SC South Carolina | Yes |      |
 |26| TX Texas         | Yes |       |
 
-(! Note: I ran 2 miles in Iowa but did not stay over night in IA.)
+(NOTE: I ran 2 miles in Iowa but did not stay over night in IA.)
 
 **CANADA**  
 
