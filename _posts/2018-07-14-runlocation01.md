@@ -45,8 +45,9 @@ I run and explore every chance I get. I run before sun rises; I run after sun se
 |26| NJ New Jersey    |  Yes |      |
 |27| SC South Carolina | Yes |      |
 |28| TX Texas         | Yes |       |
+|29| MI Michigan      | Yes |       |
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (NOTE: I ran 2 miles in Iowa. However, I did not stay over night in IA.)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (NOTE: I ran 2 miles in Iowa in 2017. However, I did not stay over night in IA.)
 
 **CANADA**  
 
