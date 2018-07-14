@@ -15,6 +15,7 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 |:--:|:---:|:--:|:---:|:--:|:---:|
 | Ethiopia | USA | | Taiwan | | | 
 | | Canada | | China |  | |
+| |  | | Japan |  | |
 
 #### Past Running Events at a Glance: 
 
@@ -32,6 +33,7 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 2    | Anthem Richmond Marathon | 2015 | 11 | Richmond | VA  | USA | 5:53:36  | Road | VA Capital |
 | 3    | Salmon Marathon | 2016 | 09 | Salmon  | ID | USA | 6:13:54 | Mixed | 1st Race at Altitude  |
 | 4    | Twin Cities Marathon | 2017 | 10 | Minneapolis, St Paul | MN | USA | 6:42:40 (Watch) | Road | MN Capital |
+| 5    |      | 2018 | 11 |  |  | USA |  | Road |  |
 
 * **Mid Distances**:
 
