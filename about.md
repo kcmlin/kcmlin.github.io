@@ -9,6 +9,8 @@ chart: true
 
 Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaimed photography enthusiast. She has completed 7 half marathons and 4 marathons. Katherine is currently training for her first ultramarathon. Her ultimate goals are to travel around the world, embrace every moment in life and never stop exploring.
 
+![World](/images/World.png)
+
 #### Places I have run at
     
 | Africa | N/S America | Antarctica | Asia | Europe | Oceania |  
