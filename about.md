@@ -65,9 +65,9 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
 | 3    | Baltimore Running Festival | 5K    | 2013 | Baltimore  | MD | USA | First trained race. C25K |
 | 4    | Philadelphia Marathon      | 8K    | 2013 | Philadelphia  | PA | USA | First out of state race |
 | 5    | Baltimore 10-Miler         | 10M   | 2015 | Baltimore  | MD | USA | King Crab Challenge |
-| 6    | Color Vibe 5K              | 5K    | 2016 | Hanover    | MD | USA | First color run. With nephews (5yo, 8yo) | 
+| 6    | Color Vibe 5K              | 5K    | 2016 | Hanover    | MD | USA | First color run. With nephews | 
 | 7    | UN Women's First 5K        | 5K    | 2017 | Addis Ababa | | Ethiopia | First overseas race | 
-| 8    | Color Splash 5K            | 5K    | 2018 | Hagerstown    | MD | USA | With nephews (7yo, 10yo) | 
+| 8    | Color Splash 5K            | 5K    | 2018 | Hagerstown    | MD | USA | With nephews | 
 | 9    | Army 10-Miler              | 10M   | 2018 | Arlington   | VA | USA |  |
 
 
