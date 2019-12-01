@@ -15,7 +15,7 @@ Katherine is an avid runner, a seasonal cyclist, a traveler and a self-proclaime
     
 | Africa | N/S America | Antarctica | Asia | Europe | Oceania |  
 |:--:|:---:|:--:|:---:|:--:|:---:|
-| Ethiopia | USA | | Taiwan | | | 
+| Ethiopia | USA | | Taiwan | Iceland | | 
 | | Canada | | China |  | |
 | |  | | Japan |  | |
 
