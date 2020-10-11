@@ -3,7 +3,7 @@ layout: post
 title: Bucket List - Races
 categories: run
 tags: 
-  - run
+  - race
 comments: false
 mathjax: null
 featured: true
